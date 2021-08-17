@@ -1,0 +1,4 @@
+{
+  "mongoDB_URI": "mongodb+srv://reactuser:Reactuser@cluster0.8ekr9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
+}
